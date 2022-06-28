@@ -1,0 +1,10 @@
+c:\users\sennit\source\repos\calculaBinario\calculaBinario\bin\Debug\calculaBinario.exe.config
+c:\users\sennit\source\repos\calculaBinario\calculaBinario\bin\Debug\calculaBinario.exe
+c:\users\sennit\source\repos\calculaBinario\calculaBinario\bin\Debug\calculaBinario.pdb
+c:\users\sennit\source\repos\calculaBinario\calculaBinario\obj\Debug\calculaBinario.csprojAssemblyReference.cache
+c:\users\sennit\source\repos\calculaBinario\calculaBinario\obj\Debug\calculaBinario.Form1.resources
+c:\users\sennit\source\repos\calculaBinario\calculaBinario\obj\Debug\calculaBinario.Properties.Resources.resources
+c:\users\sennit\source\repos\calculaBinario\calculaBinario\obj\Debug\calculaBinario.csproj.GenerateResource.cache
+c:\users\sennit\source\repos\calculaBinario\calculaBinario\obj\Debug\calculaBinario.csproj.CoreCompileInputs.cache
+c:\users\sennit\source\repos\calculaBinario\calculaBinario\obj\Debug\calculaBinario.exe
+c:\users\sennit\source\repos\calculaBinario\calculaBinario\obj\Debug\calculaBinario.pdb
